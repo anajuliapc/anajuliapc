@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>
 
-### <div align="center">I'm Ana Julia, a full-time developer with 6+ years of experience, being the last 1+ as a full-stack developer, and with 5+ years of experience on R&D projects with big companies (such as HP, Samsung and IBM)</div>  
+### <div align="center">I'm Ana Julia, a full-time developer with 7+ years of experience, being the last 1+ as a full-stack developer, and with 5+ years of experience on R&D projects with big companies (such as HP, Samsung and IBM)</div>  
 
 
 - ⚡ I'm a very good learner and I'm not afraid of trying new technologies  
